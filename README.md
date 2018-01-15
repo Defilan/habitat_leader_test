@@ -1,6 +1,5 @@
 # Habitat Leader Test 
 
-This is a Chef cookbook that helps configure Fedora based Chef/Ruby developer boxes
 This is a Habitat project that can be used to test various topologies in Habitat. It is a basic Sinatra web app that
 displays the hostname of the system serving the content.
 
